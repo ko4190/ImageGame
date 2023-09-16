@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">ImageGame</string>
+    <string name="Q0">이 중 내가 동생이 있다면 절대 소개시켜 줄 수 없는 사람은?</string>
+    <string name="Q1">이 중 자신의 이상형에 가장 가까운 사람은?</string>
+    <string name="Q2">이 중 양다리 이상 걸쳐봤을 것 같은 사람은?</string>
+    <string name="Q3">이 중 육아 난이도 최상이었을 거 같은 사람은?</string>
+    <string name="Q4">이 중 휴지 없이 변 보고 양말로 해결한 적 있을 것 같은 사람은?</string>
+    <string name="Q5">이 중 애인한테 집착할 것 같은 사람은?</string>
+    <string name="Q6">이 중 첫인상이 가장 호감인 사람은?</string>
+    <string name="Q7">이 중 멘탈이 제일 세보이는 사람은?</string>
+    <string name="Q8">이 중 가장 먼저 결혼 할 것 같은 사람은?</string>
+    <string name="Q9">이 중 내가 싸워서 이길 수 있을 것 같은 사람은?</string>
+    <string name="Q10">이 중 가장 연애 많이 해봤을 것 같은 사람은?</string>
+    <string name="Q11">이 중 제일 또라이라고 생각하는 사람은?</string>
+    <string name="Q12">이 중 집에서 틱톡 찍으며 코카인 출 거 같은 사람은?</string>
+    <string name="Q13">이 중 샤워할 때 본인 보고 취해 있을 거 같은 사람은?</string>
+    <string name="Q14">이 중 어릴 때 삥 뜯겼을 거 같은 사람은?</string>
+    <string name="Q15">이 중 법이 없으면 절대 안될 것 같은 사람은?</string>
+    <string name="Q16">꽝!! 벌칙 수행 후 한번 더 뽑기!</string>
+    <string name="Q17">이 중 5분 안에 꼬실 수 있을 것 같은 사람은?</string>
+    <string name="Q18">이 중 강약약강일 것 같은 사람은?</string>
+    <string name="Q19">이 중 지금 집에 가고 싶어 안달나 보이는 사람은?</string>
+    <string name="Q20">이 중 지금 꿀밤이 마려운 사람은?</string>
+    <string name="Q21">그냥 맞은편 사람 건네주기 \n(확인한 사람은 호들갑 떨기)</string>
+
 </resources>

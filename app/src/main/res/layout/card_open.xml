@@ -30,13 +30,14 @@
 
         <TextView
             android:id="@+id/card_text"
-            android:layout_width="wrap_content"
+            android:layout_width="190dp"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:textSize="18sp"
-            android:visibility="invisible"
-            android:textColor="@android:color/black"
-            />
+            android:gravity="center"
+            android:textSize="25sp"
+            android:fontFamily="@font/cute_font"
+            android:lineSpacingExtra="5dp"
+            android:visibility="invisible" />
 
     </FrameLayout>
 
@@ -44,9 +45,11 @@
         android:id="@+id/flip_btn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Flip"
+        android:text="뒤집기"
         android:layout_below="@id/card_container"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="32dp" />
+
+
 
 </RelativeLayout>
